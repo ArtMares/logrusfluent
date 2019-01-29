@@ -1,3 +1,6 @@
 *.exe
 *.test
 *.prof
+
+# JetBrains IDE Project Files
+.idea
